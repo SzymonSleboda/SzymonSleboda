@@ -19,7 +19,4 @@
 <img alt="Figma" width="32px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4" />
 
 ## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SzymonSleboda)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonSleboda&layout=compact)
