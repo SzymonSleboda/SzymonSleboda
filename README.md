@@ -8,7 +8,7 @@ As a Front-End Developer, I'm dedicated to crafting seamless digital experiences
 
 
 
-<br>
+
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonSleboda&layout=compact)
