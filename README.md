@@ -5,7 +5,7 @@ As a Front-End Developer, I'm dedicated to crafting seamless digital experiences
 ## My stack and tools
 
 <img align="left" alt="Visual Studio Code" src="https://skillicons.dev/icons?i=js,html,css,sass,git,github,vscode,nodejs,react,figma&theme=light"/></br>
-
+</br>
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SzymonSleboda&layout=compact)
