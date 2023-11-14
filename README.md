@@ -20,6 +20,7 @@ As a Full-Stack Developer, I'm dedicated to crafting seamless digital experience
   <li><a href="https://szymonsleboda.github.io/Szymon_Sleboda_Phonebook/">React Phonebook App</a></li>
   <li><a href="https://in4matic-4c2abd694526.herokuapp.com/swagger/">Node.js project full backend</a></li>
   <li><a href="https://szymonsleboda.github.io/React_Movies_Page/">React_Movies_Page</a></li>
+  [React_Movies_Page](https://szymonsleboda.github.io/React_Movies_Page/)
 </ul>
 <h2>Group projects:</h2>
 <ul>
