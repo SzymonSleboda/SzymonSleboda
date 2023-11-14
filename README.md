@@ -27,4 +27,3 @@ As a Full-Stack Developer, I'm dedicated to crafting seamless digital experience
   <li><a href="https://okazaki92.github.io/Quattro-Team-project-filmoteka/">Filmoteka | Role: Developer</a></li>
   <li><a href="https://in4matic.netlify.app">In4matic | Role: Team Lead</a></li>
 </ul>
-[Click me](https://in4matic.netlify.app)
